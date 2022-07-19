@@ -1,0 +1,23 @@
+
+// 基本設定
+*,*::before,*::after {
+    box-sizing: border-box;
+}
+
+// * {
+//     outline: 1px solid black;
+// }
+
+body {
+    line-height: 1.5;
+    font-family: "Roboto", "sans-serif";
+    font-size: 24px;
+}
+
+img {
+    vertical-align: middle;
+}
+
+a {
+    text-decoration: none;
+}
