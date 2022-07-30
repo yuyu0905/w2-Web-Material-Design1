@@ -268,11 +268,6 @@ h3 {
 .footer {
   background-color: #000000;
 }
-.footer ul {
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-}
 .footer a:hover {
   color: #891818;
 }/*# sourceMappingURL=all.css.map */

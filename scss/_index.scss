@@ -97,14 +97,6 @@ h3 {
 
 .footer {
     background-color: #000000;
-
-    ul {
-        
-        display: flex;
-        flex-direction: column;
-        gap: 16px
-    }
-    
     a {
         &:hover {
             color: #891818;
